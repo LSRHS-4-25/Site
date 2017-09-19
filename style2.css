@@ -1,0 +1,22 @@
+body {
+  color: black;
+  background-color: lightblue;
+  font-family:"courier", courier;
+  font-size: 18pt;
+}
+h1 {
+  color: black;
+  background-color: lightblue;
+  font-family:"courier", courier;
+  font-size: 36pt;
+}
+h2 {
+  color: black;
+  background-color: lightblue;
+  font-family:"courier", courier;
+  font-size: 18pt;
+}
+.smaller{
+  font-size: 12pt;
+  line-height: 1;
+}
