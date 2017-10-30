@@ -1,0 +1,59 @@
+body {
+  color: white;
+  background-color: black;
+  font-family:"courier", courier;
+  font-size: 12pt;
+}
+
+h1{
+  color: white;
+  font-family:"chalkboard", chalkboard;
+  font-size: 20pt;
+  line-height: 1;
+
+}
+h2{
+  color: white;
+  font-family:"courier", courier;
+  font-size: 12pt;
+  line-height: 1;
+}
+h3{
+  color: white;
+  font-family:"courier", courier;
+  font-size: 12pt;
+  line-height: 1;
+}
+h4{
+  color: white;
+  font-family:"courier", courier;
+  font-size: 12pt;
+  line-height: 1;
+}
+h5{
+  color: white;
+  font-family:"courier", courier;
+  font-size: 12pt;
+  line-height: 1;
+}
+img{
+  padding: 10px
+}
+h6{
+  color: white;
+  font-family:"google fonts", monospace;
+  font-size: 18pt;
+  line-height: 1;
+}
+a{
+  color: indigo;
+}
+.smaller{
+  font-size: 12pt;
+  line-height: 1;
+}
+td{
+  color: white;
+  font-size: 30pt;
+  line-height: 1;
+}
