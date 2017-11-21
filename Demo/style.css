@@ -1,0 +1,89 @@
+#Menu {
+  width: 200px;
+  height: 630px;
+  background-color: darkblue;
+  border: 5px solid gold;
+  float: left;
+  margin: 5px;
+  clear: both;
+}
+#Head {
+  width: 1200px;
+  height: 150px;
+  background-color: darkblue;
+  border: 5px solid gold;
+  padding: 15px;
+  float: left;
+}
+#Main {
+  width: 973px;
+  height: 600px;
+  border: 5px solid darkblue;
+  padding: 15px;
+  float: left;
+  font-size: 18pt;
+}
+#Main2 {
+  width: 960px;
+  height: 750px;
+  border: 5px solid darkblue;
+  padding: 15px;
+  float: left;
+  font-size: 18pt;
+  clear: both;
+}
+#Main3 {
+  width: 977px;
+  height: 690px;
+  border: 5px solid darkblue;
+  padding: 15px;
+  float: left;
+  font-size: 18pt;
+}
+#Menu2 {
+  width: 200px;
+  height: 780px;
+  background-color: darkblue;
+  border: 5px solid gold;
+  float: left;
+  margin: 5px;
+  clear: both;
+}
+#Menu3 {
+  width: 200px;
+  height: 715px;
+  background-color: darkblue;
+  border: 5px solid gold;
+  float: left;
+  margin: 5px;
+  clear: both;
+}
+h1{
+  color: white;
+  font-family:"courier", courier;
+  font-size: 40pt;
+  line-height: 1;
+}
+h2{
+  color: white;
+  font-family:"courier", courier;
+  font-size: 20pt;
+  line-height: 1;
+}
+body {
+  color: darkblue;
+  background-color: lightblue;
+  font-family:"courier", courier;
+  font-size: 12pt;
+}
+#Menu a{
+  color: white;
+}
+#map {
+  width: 977px;
+  height: 600px;
+  border: 5px solid darkblue;
+  padding: 15px;
+  float: left;
+  font-size: 18pt;
+}
