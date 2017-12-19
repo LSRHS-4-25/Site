@@ -1,0 +1,27 @@
+h1{
+  color: white;
+  font-family:"courier", courier;
+  font-size: 40pt;
+  line-height: 1;
+}
+h2{
+  color: darkblue;
+  font-family:"courier", courier;
+  font-size: 20pt;
+  line-height: 1;
+}
+.container {
+  color: darkblue;
+  background-color: #99D3DF;
+  font-family:"courier", courier;
+  font-size: 12pt;
+}
+.toppad{
+  padding-top: 20px;
+}
+.container2 {
+  color: white;
+  background-color: #262228;
+  font-family:"courier", courier;
+  font-size: 12pt;
+}
